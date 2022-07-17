@@ -1,0 +1,19 @@
+.Item {
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    color: black;
+}
+
+.Img {
+    width: 100px;
+    height: auto;
+}
+
+.Apps {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
