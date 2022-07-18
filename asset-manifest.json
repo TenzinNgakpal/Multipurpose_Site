@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multipurpose_Site_CipherSchools/static/css/main.b597177f.css",
+    "main.js": "/Multipurpose_Site_CipherSchools/static/js/main.b62a03bf.js",
+    "static/js/787.142da1d4.chunk.js": "/Multipurpose_Site_CipherSchools/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Multipurpose_Site_CipherSchools/index.html",
+    "main.b597177f.css.map": "/Multipurpose_Site_CipherSchools/static/css/main.b597177f.css.map",
+    "main.b62a03bf.js.map": "/Multipurpose_Site_CipherSchools/static/js/main.b62a03bf.js.map",
+    "787.142da1d4.chunk.js.map": "/Multipurpose_Site_CipherSchools/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b597177f.css",
+    "static/js/main.b62a03bf.js"
+  ]
+}
